@@ -7,7 +7,7 @@
 
 #### Meeting times
 
-Fridays 1-1:50 pm, in [location TBA](https://map.colby.edu/)
+Fridays 1-1:50 pm, in [Gordon 270](https://map.colby.edu/)
 
 #### Instructor
 
