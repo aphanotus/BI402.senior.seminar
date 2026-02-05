@@ -1,6 +1,6 @@
-# BI402 Senior Seminar 
+# BI402 Senior Seminar
 
-## Section C: Chromosome Chaos
+## Section B - Chromosome Chaos: Variation, Disorder, and Evolution in the Genome
 ![](images/header_chromothripsis_Stephens_etal_Cell_2011.png)
 
 **Colby College  -  Spring 2026  -  Syllabus**
@@ -101,14 +101,14 @@ If you experience symptoms of a contagious respiratory illness, such as [covid-1
 | :---------: | :----------------------------------------------------------- |
 | February 6  | Introductions                                                |
 | February 13 | Selection of articles for discussion                         |
-| February 20 | Student-led discussion (or possibly another invited speaker) |
-| February 27 | Student-led discussion (or possibly another invited speaker) |
-|   March 6   | [April Horton](https://www.google.com/url?q=https://www.bates.edu/faculty/profile/april-l-horton/&source=gmail-imap&ust=1770143594000000&usg=AOvVaw0NsYFt_AYogd_1hcgqB8Kj), Bates College; Topic: Genetics and evolution of animal development and symbioses; Host: Suegene Noh |
-|  March 13   | Student-led discussion (or possibly another invited speaker) |
-|  March 20   | Student-led discussion (or possibly another invited speaker) |
+| February 20 | Student-led discussion                                       |
+| February 27 | Student-led discussion                                       |
+|   March 6   | Visiting speaker: [April Horton](https://www.google.com/url?q=https://www.bates.edu/faculty/profile/april-l-horton/&source=gmail-imap&ust=1770143594000000&usg=AOvVaw0NsYFt_AYogd_1hcgqB8Kj), Bates College; Topic: Genetics and evolution of animal development and symbioses; Host: Suegene Noh |
+|  March 13   | Student-led discussion                                       |
+|  March 20   | Student-led discussion                                       |
 |   April 3   | Visiting speaker: [Jennifer McCarthy-Taylor](https://www.google.com/url?q=https://www.albertinlab.org/lab&source=gmail-imap&ust=1770143594000000&usg=AOvVaw2mS-FxvObL8MO4VmgOQd9z), Marine Biological Laboratory (Albertin Lab); Topic: Body-patterning in cephalopod development; Host: Christina Cota |
-|  April 10   | Student-led discussion (or possibly another invited speaker) |
-|  April 17   | Student-led discussion (or possibly another invited speaker) |
+|  April 10   | Student-led discussion                                       |
+|  April 17   | Student-led discussion                                       |
 |  April 24   | Visiting speaker: [Courtney Clark-Hachtel](https://go.unca.edu/faculty/dr-courtney-clark-hachtel/), University of North Carolina Asheville; Topic: Genome stability mechanisms in tardigrades; Host: Dave Angelini |
 |    May 8    | Concluding group discussion                                  |
 
